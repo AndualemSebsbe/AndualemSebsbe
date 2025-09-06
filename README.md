@@ -1,5 +1,5 @@
 ### Software Engineer
-
+Software Engineer with robust experience building scalable applications using Java, Spring Boot. Developed reliable REST APIs and optimized performance with clean, efficient code while reducing processing times and operational costs. Adept at collaborating with cross-functional teams and leveraging emerging tech and automation tools to drive continuous innovation.
 <!--
 **AndualemSebsbe/AndualemSebsbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
